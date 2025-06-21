@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Visual Studio Code
+.vscode/
+
+# Others
+*.dbmdl
+*.psess
+*.vsp
+*.pdb
+*.cache
+*.ide
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Rider
+.idea/
+*.sln.iml
+
+# Test Results
+TestResults/
+*.trx
+
+# Publish
+publish/
+out/
+
+# MISC.
+Procedure.docx
