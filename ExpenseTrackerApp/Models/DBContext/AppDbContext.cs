@@ -9,8 +9,8 @@ namespace ExpenseTrackerApp.Models.DBContext
         {
             
         }
-        DbSet<Category> Categories { get; set; }
-        DbSet<Transaction> Transactions { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Transaction> Transactions { get; set; }
 
     }
 }

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\expensetrackerapp\\expensetrackerapp\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\expensetrackerapp\\expensetrackerapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\expensetrackerapp\\expensetrackerapp\\models\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\models\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\expensetrackerapp\\expensetrackerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -11,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\models\\dtos\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Migrations\\20250621164712_Inital_Migraion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTrackerApp\\Migrations\\20250621164712_Inital_Migraion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\expensetrackerapp\\expensetrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\expensetrackerapp\\expensetrackerapp\\models\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\models\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DC9ED36-B2EE-46DA-B483-A0AECD1093DF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\expensetrackerapp\\expensetrackerapp\\models\\dtos\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,24 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250621164712_Inital_Migraion.cs",
-              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Migrations\\20250621164712_Inital_Migraion.cs",
-              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Migrations\\20250621164712_Inital_Migraion.cs",
-              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Migrations\\20250621164712_Inital_Migraion.cs",
-              "RelativeToolTip": "ExpenseTrackerApp\\Migrations\\20250621164712_Inital_Migraion.cs",
+              "DocumentIndex": 0,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "ExpenseTrackerApp\\Controllers\\TransactionsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T16:47:12.896Z",
+              "WhenOpened": "2025-06-22T14:14:16.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ExpenseTrackerApp\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:52:08.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Program.cs",
               "RelativeDocumentMoniker": "ExpenseTrackerApp\\Program.cs",
@@ -59,25 +76,24 @@
               "RelativeToolTip": "ExpenseTrackerApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T16:24:31.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T16:24:31.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\appsettings.json",
               "RelativeDocumentMoniker": "ExpenseTrackerApp\\appsettings.json",
               "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\appsettings.json",
               "RelativeToolTip": "ExpenseTrackerApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-21T16:17:21.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\DTOs\\Transaction.cs",
               "RelativeDocumentMoniker": "ExpenseTrackerApp\\Models\\DTOs\\Transaction.cs",
@@ -85,12 +101,11 @@
               "RelativeToolTip": "ExpenseTrackerApp\\Models\\DTOs\\Transaction.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA7wAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T16:05:09.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T16:05:09.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\DTOs\\Category.cs",
               "RelativeDocumentMoniker": "ExpenseTrackerApp\\Models\\DTOs\\Category.cs",
@@ -98,18 +113,17 @@
               "RelativeToolTip": "ExpenseTrackerApp\\Models\\DTOs\\Category.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T16:04:51.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T16:04:51.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\DBContext\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ExpenseTrackerApp\\Models\\DBContext\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\DBContext\\AppDbContext.cs",
               "RelativeToolTip": "ExpenseTrackerApp\\Models\\DBContext\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T16:03:50.149Z",
               "EditorCaption": ""
